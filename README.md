@@ -27,8 +27,22 @@ This project analyzes historical mean temperature data for India to explore long
 ## Dataset
 Source: India Meteorological Department (IMD), via the Government of India's Open Government Data platform.
 
+
 ## Results
-Add the actual findings and charts after completing the analysis.
+
+### Visualizations
+
+**1. Indian Temperature Trends**
+
+This chart compares annual mean temperatures with the 10-year rolling average.
+
+![Indian Temperature Trends](temperature_trend.png)
+
+**2. Annual Temperature Anomalies**
+
+This chart shows the difference between each year's mean temperature and the average for the selected study period.
+
+![Annual Temperature Anomalies](temperature_anomalies.png)
 
 ## How to Run
 Open `Indian_Climate_Analysis.ipynb` in Google Colab and run the cells in order.
